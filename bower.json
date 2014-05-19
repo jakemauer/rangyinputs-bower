@@ -1,0 +1,12 @@
+{
+  "name": "rangyinputs-bower",
+  "version": "1.1.2",
+  "main": "rangyinputs-jquery.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
