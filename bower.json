@@ -1,6 +1,6 @@
 {
   "name": "rangyinputs-bower",
-  "description": "A jQuery plugin for obtaining and manipulating selections within <textarea> and <input type='text'>"
+  "description": "A jQuery plugin for obtaining and manipulating selections within <textarea> and <input type='text'>",
   "version": "1.1.2",
   "main": "rangyinputs-jquery.js",
   "dependencies": {
